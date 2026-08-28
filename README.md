@@ -15,7 +15,7 @@
   - [Preparing AD Infrastructure in Azure](https://github.com/eseosait/Preparing-AD-Infrastructure-in-Azure)
   - [Deploying Active Directory](https://github.com/eseosait/ad-deployment)
   - [Creating Users with Powershell](https://github.com/eseosait/powershell-user)
-  - [Group Policy and Managing Accounts](https://github.com/eseosait/azure-network-protocols)
+  - [Group Policy and Managing Accounts](https://github.com/eseosait/group-policy)
 - <b>DNS</b>
   - [Practicing with DNS)](https://github.com/eseosait/proton-vpn)
 - <b>Network File Shares and Permission</b>

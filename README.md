@@ -13,7 +13,7 @@
   - [VPN setup and Usage (Proton VPN)](https://github.com/eseosait/proton-vpn)
 - <b>Active Directory</b>
   - [Preparing AD Infrastructure in Azure](https://github.com/eseosait/Preparing-AD-Infrastructure-in-Azure)
-  - [Deploying Active Directory](https://github.com/eseosait/azure-network-protocols)
+  - [Deploying Active Directory](https://github.com/eseosait/ad-deployment)
   - [Creating Users with Powershell](https://github.com/eseosait/azure-network-protocols)
   - [Group Policy and Managing Accounts](https://github.com/eseosait/azure-network-protocols)
 - <b>DNS</b>

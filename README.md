@@ -21,7 +21,7 @@
 - <b>Network File Shares and Permission</b>
   - [Network File Share and Permission Lab](https://github.com/eseosait/file-share-lab)
   - [File Permission with Google Drive](https://github.com/eseosait/drive-permissions)
-<h2>🤳Connect with me:</h2>
+<h2>🤳Connect with me:</h2> (https://www.linkedin.com/in/eseosa-ogbeifun-a78415424/)
 
 [<img align="left" alt="Eseosa Ogbeifun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 

@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/eseosait/azure-ad-lab)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/eseosait/azure-network-protocols)
 - <b>Virtual Private Networks (VPNs)</b>
-  - [VPN setup and Usage (Proton VPN)](https://github.com/eseosait/configure-ad)
+  - [VPN setup and Usage (Proton VPN)](https://github.com/eseosait/proton-vpn)
 - <b>Active Directory</b>
   - [Preparing AD Infrastructure in Azure](https://github.com/eseosait/Preparing-AD-Infrastructure-in-Azure)
   - [Deploying Active Directory](https://github.com/eseosait/azure-network-protocols)

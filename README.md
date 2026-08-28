@@ -10,12 +10,17 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/eseosait/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/eseosait/azure-network-protocols)
 - <b>Virtual Private Networks (VPNs)</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/eseosait/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/eseosait/azure-network-protocols)
+  - [VPN setup and Usage (Proton VPN)](https://github.com/eseosait/configure-ad)
 - <b>Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/eseosait/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/eseosait/azure-network-protocols)
-
+  - [Preparing AD Infrastructure in Azure](https://github.com/eseosait/configure-ad)
+  - [Deploying Active Directory](https://github.com/eseosait/azure-network-protocols)
+  - [Creating Users with Powershell](https://github.com/eseosait/azure-network-protocols)
+  - [Group Policy and Managing Accounts](https://github.com/eseosait/azure-network-protocols)
+- <b>DNS</b>
+  - [Practicing with DNS)](https://github.com/eseosait/configure-ad)
+- <b>Network File Shares and Permission</b>
+  - [Network File Share and Permission Lab](https://github.com/eseosait/configure-ad)
+  - [File Permission with Google Drive](https://github.com/eseosait/configure-ad)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Eseosa Ogbeifun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

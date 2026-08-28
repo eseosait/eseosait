@@ -17,7 +17,7 @@
   - [Creating Users with Powershell](https://github.com/eseosait/azure-network-protocols)
   - [Group Policy and Managing Accounts](https://github.com/eseosait/azure-network-protocols)
 - <b>DNS</b>
-  - [Practicing with DNS)](https://github.com/eseosait/configure-ad)
+  - [Practicing with DNS)](https://github.com/eseosait/proton-vpn)
 - <b>Network File Shares and Permission</b>
   - [Network File Share and Permission Lab](https://github.com/eseosait/configure-ad)
   - [File Permission with Google Drive](https://github.com/eseosait/configure-ad)
